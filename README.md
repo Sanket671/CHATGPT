@@ -1,4 +1,4 @@
-# ChatGPT Clone Project
+# Advanced ChatGPT (RAG System with Real-Time Memory)
 
 ## Overview
 
